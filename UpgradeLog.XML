@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="连连看">
+</Property><Property Name="解决方案文件" Value="C:\Documents and Settings\Administrator\桌面\连连看09-6-17\连连看.sln">
+</Property><Property Name="用户选项文件" Value="C:\Documents and Settings\Administrator\桌面\连连看09-6-17\连连看.suo">
+</Property><Property Name="Date" Value="2011年6月23日 星期四">
+</Property><Property Name="Time" Value="21:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="连连看.sln" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\连连看.sln">
+</Event><Event ErrorLevel="0" Project="" Source="连连看.suo" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\连连看.suo">
+</Event><Event ErrorLevel="0" Project="连连看" Source="连连看.csproj" Description="项目文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\连连看.csproj">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Form1.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Form1.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Program.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Properties\Settings.settings" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="连连看" Source="skyblue_LLK.ico" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\skyblue_LLK.ico">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Form1.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="连连看" Source="Properties\Resources.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\连连看09-6-17\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="连连看" Source="连连看.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="连连看" Source="连连看.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="连连看.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="连连看.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="连连看" Source="连连看.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\连连看09-6-17\obj\Debug\连连看.exe
+C:\Documents and Settings\Administrator\桌面\连连看09-6-17\obj\Debug\连连看.pdb
+C:\Documents and Settings\Administrator\桌面\连连看09-6-17\bin\Debug\连连看.exe
+C:\Documents and Settings\Administrator\桌面\连连看09-6-17\bin\Debug\连连看.pdb
+C:\Documents and Settings\Administrator\桌面\连连看09-6-17\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\连连看09-6-17\obj\Debug\连连看.Form1.resources
+C:\Documents and Settings\Administrator\桌面\连连看09-6-17\obj\Debug\连连看.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\连连看09-6-17\obj\Debug\连连看.csproj.GenerateResource.Cache
